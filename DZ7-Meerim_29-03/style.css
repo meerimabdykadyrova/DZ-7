@@ -1,0 +1,13 @@
+.answer{
+    display: none;
+}
+
+.answer.show {
+    display: block;
+}
+.puzzle{
+    margin-top: 10px;
+}
+button{
+    background-color: #39e539;
+}
